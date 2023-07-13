@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Python and PySpark
 - 💬 Ask me about SQL, BigQuery, Data Warehousing, Healthcare, and Biotech!
 
+** My languages:** SQL, JavaScript, HTML, Python, LookML
+
 **My GitHub Stats:**
 
 
